@@ -6,6 +6,7 @@ This is a bot I made for my friend and I to use. The main use of it is to scrape
 
 Note: Currently the website is not allowing scraping, so testing cannot be done
 
+* Utilizing Robots.txt
 * There was change to their html, so some errors have been occuring
 * Better optimization with getRegion, and information storage in the database
 * Craftable method is not working as intended
